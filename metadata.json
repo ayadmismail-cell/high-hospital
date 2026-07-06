@@ -1,0 +1,6 @@
+{
+  "name": "High Hospitals",
+  "description": "High-end luxury hospital website for High Hospitals in Kalar, Sulaymaniyah, Iraq.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
